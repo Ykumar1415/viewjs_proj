@@ -1,3 +1,3 @@
-# viewjs_proj
+# vuejs_proj
 # Author 
 Yogesh Saini
